@@ -17,9 +17,9 @@
 🔢 Metodologia:  
   1- Análisis y limpieza de datos.  
   2- Creación de 3 funciones con modelo de regresión lineal que por región:  
-    2.1- predice el volúmen promedio de reservas y RMSE,  
-    2.2- predice las ganancias potenciales,  
-    2.3- y calcula el riesgo y ganancias.
+      2.1- predice el volúmen promedio de reservas y RMSE,  
+      2.2- predice las ganancias potenciales,  
+      2.3- y calcula el riesgo y ganancias.  
   3- Elección final y conclusión.
 
 📊 Conclusiones:  
