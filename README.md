@@ -23,4 +23,4 @@
   3. Elección final y conclusión.
 
 📊 Conclusiones:  
-  Se logro crear un modelo eficeinte capas de elegir la mejor región para invertir los 100 millones de dólares con el ingreso predicho más alto y con el riesgo de muy bajo a bajo.
+  Se logro crear un modelo eficeinte capaz de elegir la mejor región para invertir los 100 millones de dólares con el ingreso predicho más alto y con el riesgo de muy bajo a bajo.
