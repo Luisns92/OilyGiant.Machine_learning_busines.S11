@@ -1,7 +1,7 @@
 # OilyGiant, Aprendizaje automático en negocios
 
 📖 Resúmen:  
-  Crear, entrenar y aplicar modelo de predicción para la empresa OilyGiant que quiere saber cual región es la mejor para abrir 200 pozos petrolíficos con un presupuesto limitado de 100 millones de dólares.
+  Crear, entrenar y aplicar modelo de predicción para la empresa OilyGiant que quiere saber cual región es la mejor para abrir 200 pozos petrolíficos con un presupuesto limitado de 100 millones de dólares.  
 .  
 .  
 .  
